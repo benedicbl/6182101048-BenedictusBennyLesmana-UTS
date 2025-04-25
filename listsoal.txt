@@ -1,0 +1,14 @@
+Soal Mudah
+5,4
+Bikin Label Score Berubah Warna Setiap Kelipatan 10 (DONE)
+Masukan sfx saat nambah poin, nabrak pipa, dan input terbang (DONE)
+
+Soal Sedang
+4,7
+Bikin animasi bird Ketika sebelum game start ada pergeseran Y naik turunnya juga (DONE)
+Bikin animasi bird game over kaya di flappybird.io (rotasi dan nanclep ke tanah) (DONE)
+
+Soal Sulit
+2
+Bikin sekumpulan pipa layer bisa > 1
+
